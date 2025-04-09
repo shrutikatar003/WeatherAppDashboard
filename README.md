@@ -7,6 +7,11 @@ A React-based weather application built with Tailwind CSS and Vite.
 - Supports dark mode.
 - Custom animations and styling.
 
+  ## Tech Stack
+  - Vite
+  - React Js
+  - Tailwind CSS
+
 ## Installation
 1. Clone the repository:
    ```bash
